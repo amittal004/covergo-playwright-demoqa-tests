@@ -1,6 +1,6 @@
 # Playwright Automation Project - DemoQA
 
-## 📌 Overview
+## Overview
 
 This project contains automated tests for the following DemoQA components using Playwright and TypeScript:
 
@@ -10,7 +10,7 @@ This project contains automated tests for the following DemoQA components using 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 playwright-demoqa-tests/
@@ -20,6 +20,7 @@ playwright-demoqa-tests/
 │   └── api/       # API tests for bookstore
 │
 ├── utils/         # Common utilities and helpers
+
 ├── README.md      # Setup and run instructions
 ├── playwright.config.ts
 └── package.json
@@ -27,12 +28,12 @@ playwright-demoqa-tests/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/playwright-demoqa-tests.git
+git clone https://github.com/amittal004/covergo-playwright-demoqa-tests.git
 cd playwright-demoqa-tests
 ```
 
@@ -60,14 +61,14 @@ npx playwright test tests/api
 
 ---
 
-## 🔧 Notes
+## Notes
 
 - Playwright Test Runner is used, no Gherkin or keyword-driven frameworks involved.
 - Project uses TypeScript and follows SOLID design principles.
 
 ---
 
-## 🧪 Tech Stack
+## Tech Stack
 
 - Playwright
 - TypeScript
